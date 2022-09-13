@@ -1,10 +1,10 @@
 name,parent,value
 Compet�ncias t�cnicas,,
-desc1,Saber,4
-desf,Compet�ncia ,5
-fsfsfsdf,Conhecimento,33
-fsdfsdf,Pr�tica,60
-dasfasf,Viv�ncia,3
-hfjgjgh,Treinamento,39
-fsdgsdg,Capacita��o,24
-fsagfsafs,Capacidade,10
+Saber,Compet�ncias t�cnicas,4
+Compet�ncia,Compet�ncias t�cnicas,5
+Conhecimento,Compet�ncias t�cnicas,33
+Pr�tica,Compet�ncias t�cnicas,60
+Viv�ncia,Compet�ncias t�cnicas,3
+Treinamento,Compet�ncias t�cnicas,39
+Capacita��o,Compet�ncias t�cnicas,24
+Capacidade,Compet�ncias t�cnicas,10
