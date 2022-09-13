@@ -26,7 +26,7 @@ var svg = d3.select("#my_dataviz")
         "translate(" + margin.left + "," + margin.top + ")"),
 
 // Read data
-d3.csv('resultado2.csv', function(data) {
+d3.csv('https://raw.githubusercontent.com/observatorioprototipos/Libra/main/resultado2.csv?token=GHSAT0AAAAAABYWHNSODBSL2CVX4B5U7UEWYY75HSA', function(data) {
 
   // stratify the data: reformatting for d3.js
   var root = d3.stratify()
