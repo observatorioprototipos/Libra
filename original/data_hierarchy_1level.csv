@@ -1,8 +1,10 @@
 name,parent,value
-Competencia,,
-saber,Competencia,4
-grp2,Competencia,23
-grp3,Competencia,11
-grp4,Competencia,40
-grp5,Competencia,30
-grp6,Competencia,25
+CompetenciasTecnicas,,
+saber,CompetenciasTecnicas,4
+competencias,CompetenciasTecnicas,5
+conhecimento,CompetenciasTecnicas,33
+pratica,CompetenciasTecnicas,60
+vivencia,CompetenciasTecnicas,3
+treinamento,CompetenciasTecnicas,39
+capacitacao,CompetenciasTecnicas,39
+capacidade,CompetenciasTecnicas,39
