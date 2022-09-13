@@ -1,0 +1,83 @@
+name,parent,value
+Origin,,
+Compet�ncias t�cnicas,Saber,4
+Compet�ncias t�cnicas,Compet�ncia ,5
+Compet�ncias t�cnicas,Conhecimento,33
+Compet�ncias t�cnicas,Pr�tica,60
+Compet�ncias t�cnicas,Viv�ncia,3
+Compet�ncias t�cnicas,Treinamento,39
+Compet�ncias t�cnicas,Capacita��o,24
+Compet�ncias t�cnicas,Capacidade,10
+Comunica��o,Comunica��o,40
+Comunica��o,Informa��o,138
+Comunica��o,Feedback,3
+Comunica��o,Transmiss�o,4
+Comunica��o,Entendimento,8
+Trabalho em equipe,Equipe,211
+Trabalho em equipe,Time,37
+Trabalho em equipe,Grupo,6
+Trabalho em equipe,Conflito,3
+Capacidade relacional,Proximidade,7
+Capacidade relacional,Respeito,9
+Capacidade relacional,Compreens�o,2
+Tomada de decis�o,Tomada de decis�o,2
+Tomada de decis�o,Decidido,8
+Tomada de decis�o,Decisivo,18
+Tomada de decis�o,Interromper,4
+Tomada de decis�o,Decis�o,18
+Tomada de decis�o,Aprova��o,16
+Tomada de decis�o,An�lise,108
+Tomada de decis�o,Aprovar,33
+Tomada de decis�o,A��o,1582
+Tomada de decis�o,Assumiu,2
+Consci�ncia situacional,Aten��o,2
+Consci�ncia situacional,Risco,152
+Atitude,Motiva��o,3
+Atitude,Aten��o,2
+Atitude,Informou,8
+Condi��es psicol�gicas,Mental,5
+Condi��es fisiol�gicas,Sono,6
+Condi��es sociais,Cultura,2
+Condi��es sociais,Lingua,4
+Condi��es sociais,Idioma,2
+Condi��es sociais,Fam�lia,4
+Condi��es sociais,Familiar,3
+Design do trabalho,Regra,3
+Design do trabalho,Instru��o,27
+Design do trabalho,Diretriz,2
+Design do trabalho,Procedimento,227
+Design do trabalho,Norma,52
+Design do trabalho,Revis�o,143
+Design do trabalho,Desvio,6
+Design do trabalho,Gerenciamento de mudan�a,52
+Design do trabalho,Gest�o de mudan�a,27
+Design do trabalho,Revis�o,143
+Design do trabalho,Reavalia��o,2
+Design de interfaces,Equipamento,91
+Design de interfaces,Salvaguarda,25
+Design de interfaces,Instrumento,15
+Design de interfaces,Ferramenta,26
+Design de interfaces,Instala��o,170
+Design de interfaces,Dimensionamento,3
+Design de interfaces,Configura��o,7
+Condi��es internas,Temperatura,24
+Condi��es internas,Calor,12
+Condi��es internas,Ru�do,5
+Condi��es internas,L�mpada,3
+Condi��es internas,Som,26
+Condi��es internas,Limpeza,19
+Condi��es internas,Limpo,21
+Condi��es internas,Ventila��o,9
+Condi��es externas,Mar,361
+Condi��es externas,Vento,46
+Condi��es externas,Sol,218
+Lideran�a,Lideran�a,26
+Lideran�a,L�der,26
+Lideran�a,Respons�vel,17
+Lideran�a,Gest�o,57
+Cultura de seguran�a,Cultura de seguran�a,2
+Aprendizagem,Treinamento,39
+Aprendizagem,Capacita��o,24
+Aprendizagem,Boas pr�ticas,9
+Gest�o,Gerenciamento de seguran�a,11
+Gest�o,Seguran�a operacional,339
